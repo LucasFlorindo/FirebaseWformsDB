@@ -1,0 +1,17 @@
+C:\Users\Lucas Rodrigues\temp\treinamento firebase\Proj_Firebase\Proj_Firebase\bin\Debug\Proj_Firebase.exe.config
+C:\Users\Lucas Rodrigues\temp\treinamento firebase\Proj_Firebase\Proj_Firebase\bin\Debug\Proj_Firebase.exe
+C:\Users\Lucas Rodrigues\temp\treinamento firebase\Proj_Firebase\Proj_Firebase\bin\Debug\Proj_Firebase.pdb
+C:\Users\Lucas Rodrigues\temp\treinamento firebase\Proj_Firebase\Proj_Firebase\bin\Debug\FireSharp.dll
+C:\Users\Lucas Rodrigues\temp\treinamento firebase\Proj_Firebase\Proj_Firebase\bin\Debug\FireSharp.Serialization.JsonNet.dll
+C:\Users\Lucas Rodrigues\temp\treinamento firebase\Proj_Firebase\Proj_Firebase\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Lucas Rodrigues\temp\treinamento firebase\Proj_Firebase\Proj_Firebase\bin\Debug\RestSharp.dll
+C:\Users\Lucas Rodrigues\temp\treinamento firebase\Proj_Firebase\Proj_Firebase\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Lucas Rodrigues\temp\treinamento firebase\Proj_Firebase\Proj_Firebase\bin\Debug\RestSharp.xml
+C:\Users\Lucas Rodrigues\temp\treinamento firebase\Proj_Firebase\Proj_Firebase\obj\Debug\Proj_Firebase.csproj.AssemblyReference.cache
+C:\Users\Lucas Rodrigues\temp\treinamento firebase\Proj_Firebase\Proj_Firebase\obj\Debug\Proj_Firebase.Form1.resources
+C:\Users\Lucas Rodrigues\temp\treinamento firebase\Proj_Firebase\Proj_Firebase\obj\Debug\Proj_Firebase.Properties.Resources.resources
+C:\Users\Lucas Rodrigues\temp\treinamento firebase\Proj_Firebase\Proj_Firebase\obj\Debug\Proj_Firebase.csproj.GenerateResource.cache
+C:\Users\Lucas Rodrigues\temp\treinamento firebase\Proj_Firebase\Proj_Firebase\obj\Debug\Proj_Firebase.csproj.CoreCompileInputs.cache
+C:\Users\Lucas Rodrigues\temp\treinamento firebase\Proj_Firebase\Proj_Firebase\obj\Debug\Proj_Firebase.csproj.CopyComplete
+C:\Users\Lucas Rodrigues\temp\treinamento firebase\Proj_Firebase\Proj_Firebase\obj\Debug\Proj_Firebase.exe
+C:\Users\Lucas Rodrigues\temp\treinamento firebase\Proj_Firebase\Proj_Firebase\obj\Debug\Proj_Firebase.pdb
